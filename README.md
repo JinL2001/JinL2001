@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JinL2001, a newbie that just start learning coding. 
+- 👋 Hi, I’m @JinL2001, a newbie that just start learn coding. 
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning Python, C, and HTML
 - 📫 Reach me via email: jh1832475310@gmail.com
